@@ -1,0 +1,13 @@
+---
+---
+
+@import "portfolYOU";
+
+.link { color:rgb(78, 78, 80); }
+.link:hover::after { color: #3A5D7A; }
+.nav-link:hover::after { color: #3A5D7A; }
+
+.link-after, .nav-link::after, .navbar-brand::after, .nav-item.active::after { content: ""; display: block; height: 0.15em; background: #3A5D7A; }
+
+.nav-link::after, .navbar-brand::after { width: 0; transition: width 0.35s; }
+.nav-link:hover::after, .navbar-brand:hover::after { width: 100%; color: #3A5D7A; }

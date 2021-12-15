@@ -1,0 +1,51 @@
+<div class="row justify-content-center align-items-center p-4">
+  <div class="col-lg-4 col-md-6 text-center mt-4">
+
+    <br>
+
+    <!-- Fine Circle Responsive Image -->
+    <div id="container" class="my-2">
+      <div id="dummy"></div>
+      <div id="element">
+        <img src="{{ site.author.image }}" alt="{{ site.title }}" class="circle-image wow animated zoomIn" data-wow-delay=".1s">
+      </div>
+    </div>
+
+    <p class="text-muted wow animated slideInUp" data-wow-delay=".15s">{{ site.description }}</p>
+
+    <br>
+    <br>
+
+    <p class="wow animated slideInUp" data-wow-delay=".15s">
+      <a class="link" href="#featured-projects">
+        <svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" fill="currentColor" class="bi bi-arrow-down-circle" viewBox="0 0 16 16">
+          <path fill-rule="evenodd" d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM8.5 4.5a.5.5 0 0 0-1 0v5.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V4.5z"/>
+        </svg>
+      </a>
+    </p>
+  </div>
+</div>
+
+<section id="featured-projects">
+  <div class="m-3">
+    <br>
+    <br>
+    <br>
+    <h2>Featured Projects</h2>
+  </div>
+  <div class="card-columns m-3 mt-4">
+    <!-- Local Projects -->
+    {% for project in site.projects %} {%- if project.tools[-1] == "featured"
+    -%} {%- assign project_type = "local" -%} {%- assign project_id =
+    project.name | slugify -%} {%- assign project_img = project.image -%} {%-
+    assign project_name = project.name -%} {%- assign project_desc =
+    project.description -%} {%- assign project_tools = project.tools -%} {%- if
+    project.external_url -%} {%- assign project_url = project.external_url -%}
+    {%- else -%} {%- assign project_url = project.url | relative_url -%} {%-
+    endif -%} {% include projects/project-card.html %} {%- endif -%} {% endfor
+    %}
+  </div>
+  <p class="text-center">
+    {% include elements/button.html link="/projects" style="outline-dark" text="See All" %}
+  </p>
+</section>

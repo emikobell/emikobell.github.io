@@ -462,3 +462,15 @@ body { font-family: "Poppins", sans-serif; }
 [data-theme="dark"] .list-group-item-action:hover, [data-theme="dark"] .list-group-item-action:focus { background-color: #1d1d1e; }
 [data-theme="dark"] .post footer { text-decoration: none; }
 [data-theme="dark"] .timeline-body .timeline-item:after { background-color: #17191a; }
+
+.link { color: #4e4e50; }
+
+.link:hover::after { color: #3A5D7A; }
+
+.nav-link:hover::after { color: #3A5D7A; }
+
+.link-after, .nav-link::after, .navbar-brand::after, .nav-item.active::after, .nav-link::after, .navbar-brand::after, .nav-item.active::after { content: ""; display: block; height: 0.15em; background: #3A5D7A; }
+
+.nav-link::after, .navbar-brand::after { width: 0; transition: width 0.35s; }
+
+.nav-link:hover::after, .navbar-brand:hover::after { width: 100%; color: #3A5D7A; }
