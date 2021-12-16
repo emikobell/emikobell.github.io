@@ -1,0 +1,19 @@
+- name: SPSS
+  level: Proficient
+  percentage: 90
+  color: danger
+
+- name: R
+  level: Proficient
+  percentage: 90
+  color: 
+
+- name: MATLAB
+  level: Compentent
+  percentage: 80
+  color: secondary
+
+- name: JavaScript & PsychoPy
+  level: Learning
+  percentage: 30
+  color: info

@@ -1,17 +1,24 @@
 - title: Resarch Assistant, University of Oxford
   from: 2021
   to: Current
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: Code memory experiments using JavaScript and PsychoPy under Dr. Nahid Zokaei.
 
-- title: MSc Psychological Research Student, University of Oxford
+- title: MSc Psychological Research, University of Oxford
   from: 2020
   to: 2021
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: Master of Science in Psychological Research, graduated with Distinction. Coursework included Statistical Theory and Methods, MATLAB Programming, Brain and Cognition, and Computer Modelling of Brain Function. Dissertation on Executive Function within Low- to Middle-income Countries.
+
+- title: IT Helpdesk Representative, Biola University
+  from: 2016
+  to: 2020
+  description: Provided laptop and desktop (Mac & PC) technical support for users; managed queue of support tickets and client data; and lead tech orientation for faculty and staff, trained student workers.
+
+- title: BA Psychology, Biola University
+  from: 2016
+  to: 2019
+  description: Bachelor of Arts in Psychology, graduated Summa Cum Laude (GPA 4.0). Coursework included Statistics with SPSS, Advanced Statistics, Industrial/Organizational Psychology, Crosscultural Psychology, and Experimental Psychology.
+
+- title: Summer Undergraduate Research Fellow, University of California, Irvine
+  from: 2019
+  to: 2019
+  description: Participated in UCI's Summer Undergraduate Research Program under Dr. Jessica Borelli. Cleaned data, ran moderation, multiple linear regression, linear regressions, exploratory and confirmatory factor analyses, and Cronbach’s alpha on SPSS. Transcribed interview data and presented results at research symposium.

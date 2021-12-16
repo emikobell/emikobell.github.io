@@ -46,7 +46,7 @@
 
     {%- if project.external_url -%}
       {%- assign project_url = project.external_url -%}
-      {%- assign external    = true -%}
+      {%- assign external   = true -%}
     {%- else -%}
       {%- assign project_url = project.url | relative_url -%}
       {%- assign external    = false -%}
@@ -55,5 +55,6 @@
     {% include projects/project-card.html %}
 
   {% endfor %}
+
 
 </div>

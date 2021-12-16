@@ -8,15 +8,20 @@ weight: 1
 # **About Me**
 <br>
 Hi, I'm **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br>
 <br>
-You can download a PDF of my CV <a href="/assets/EB_CV.pdf" target="_blank">here</a>.
+I'm a Japanese-English bilingual with a background in psychological research, data analysis, and tech support. I'm passionate about solving real-world problems with practical solutions -- whether that be untangling datasets to find explanations, troubleshooting broken computers to make it run again, or fixing a bug in my experiment code. Take a look at some of my projects <a href="/projects">here</a>!<br>
+<br>
+You can download a PDF of my academic & research CV <a href="/assets/EB_CV.pdf" target="_blank">here</a>. <br>
+
+A complete list of my experiences is on my <a href="https://linkedin.com/in/emikobell/" target="_blank">LinkedIn page</a>.
+
+
 
 <div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
+{% include about/skills.html title="Technical Skills" source=site.data.technical-skills %}
 {% include about/otherskills.html title="Other Skills" source=site.data.other-skills %}
 </div>
 
 <div class="row">
-{% include about/timeline.html title="Experience" %}
+{% include about/timeline.html title="Experience (Abridged)" %}
 </div>
