@@ -1,24 +1,74 @@
-- title: Resarch Assistant, University of Oxford
-  from: 2021
+- title: "IT Service Management Specialist<br> <h3>Biola University</h3><br>"
+  from: 2022
   to: Current
-  description: Code memory experiments using JavaScript and PsychoPy under Dr. Nahid Zokaei.
+  description: |
+   <ul>
+   <li>Create new enterprise services for the university by analyzing complex problems</li>
+   <li>Implement the ITIL 4 framework for service requests, incident management, asset management, and change management</li>
+   <li>Develop and configure processes and workflows to help increase efficiency</li>
+   <li>Optimize and automate processes using integrations and REST APIs</li>
+   <li>Lead implementation and administration for service management platforms such as Web Helpdesk and Team Dynamix</li>
+   <li>Create, review, and manage internal and public documentation</li>
+   </ul>
 
-- title: MSc Psychological Research, University of Oxford
+- title: "Resarch Assistant (Data Analyst)<br> <h3>University of Oxford</h3><br>"
+  from: 2021
+  to: 2022
+  description: |
+    <ul>
+    <li>Analyzed and visualized data using R</li>
+    <li>Developed software for experiments using MATLAB, JavaScript, and Python</li>
+    </ul>
+
+- title: "Masters of Science (MSc) Psychological Research<br> <h3>University of Oxford</h3><br>"
   from: 2020
   to: 2021
-  description: Master of Science in Psychological Research, graduated with Distinction. Coursework included Statistical Theory and Methods, MATLAB Programming, Brain and Cognition, and Computer Modelling of Brain Function. Dissertation on Executive Function within Low- to Middle-income Countries.
+  description: |
+    <ul>
+    <li>Final grade: Distinction</li>
+    <li>Oxford Kobe Scholarship, Full funding</li>
+    <li>Coursework included:</li>
+    <ul>
+    <li>Statistical Theory and Methods</li>
+    <li>MATLAB Programming</li>
+    <li>Computer Modelling of Brain Function</li>
+    </ul>
+    </ul>
 
-- title: IT Helpdesk Representative, Biola University
+- title: "IT Helpdesk Representative<br> <h3>Biola University</h3><br>"
   from: 2016
   to: 2020
-  description: Provided laptop and desktop (Mac & PC) technical support for users; managed queue of support tickets and client data; and led tech orientation for faculty and staff, trained student workers.
+  description: |
+    <ul>
+    <li>Provided laptop, desktop, and classroom technical support for users</li>
+    <li>Experienced in maintaining high levels of customer success and satisfaction</li>
+    <li>Led technical orientation for faculty and staff</li>
+    <li>Led training for technical support workers</li>
+    <li>Assisted in the launch and implementation of software and IT service offerings</li>
+    </ul>
 
-- title: BA Psychology, Biola University
+- title: "Bachelor of Arts (BA) Psychology<br> <h3>Biola University</h3><br>"
   from: 2016
   to: 2019
-  description: Bachelor of Arts in Psychology, graduated Summa Cum Laude (GPA 4.0). Coursework included Statistics with SPSS, Advanced Statistics, Industrial/Organizational Psychology, Crosscultural Psychology, and Experimental Psychology.
+  description: |
+    <ul>
+    <li>Final grade: Summa Cum Laude (GPA 4.0)</li>
+    <li>Torrey Honors College</li>
+    <li>Coursework included:</li> 
+    <ul>
+    <li>Statistics with SPSS</li>
+    <li>Advanced Statistics</li>
+    <li>Industrial/Organizational Psychology</li>
+    <li>Experimental Psychology</li>
+    </ul>
+    </ul>
 
-- title: Summer Undergraduate Research Fellow, University of California, Irvine
+- title: "Summer Undergraduate Research Fellow<br> <h3>University of California, Irvine</h3><br>"
   from: 2019
   to: 2019
-  description: Participated in UCI's Summer Undergraduate Research Program under Dr. Jessica Borelli. Cleaned data, ran moderation, multiple linear regression, linear regressions, exploratory and confirmatory factor analyses, and Cronbach’s alpha on SPSS. Transcribed interview data and presented results at research symposium.
+  description: |
+    <ul>
+    <li>Ran complex data analysis using SPSS</li>
+    <li>Visualized results</li>
+    <li>resented results at research symposium</li>
+    </ul>
