@@ -1,14 +1,23 @@
-- title: "IT Service Management Specialist<br> <h3>Biola University</h3><br>"
-  from: 2022
+- title: "Software Engineering Student <br> <h3>Hackbright Academy</h3><br>"
+  from: 2023
   to: Current
   description: |
    <ul>
-   <li>Create new enterprise services for the university by analyzing complex problems</li>
-   <li>Implement the ITIL 4 framework for service requests, incident management, asset management, and change management</li>
-   <li>Develop and configure processes and workflows to help increase efficiency</li>
-   <li>Optimize and automate processes using integrations and REST APIs</li>
-   <li>Lead implementation and administration for service management platforms such as Web Helpdesk and Team Dynamix</li>
-   <li>Create, review, and manage internal and public documentation</li>
+   <li>Full-stack web development bootcamp, cohort sponsored by Walmart</li>
+   <li>Tech stack includes Python, JavaScript, HTML, CSS, Flask, jQuery, Jinja, PostgreSQL, and Bootstrap</li>
+   </ul>
+
+- title: "IT Service Management Specialist<br> <h3>Biola University</h3><br>"
+  from: 2022
+  to: 2023
+  description: |
+   <ul>
+   <li>Created new enterprise services for the university by analyzing complex problems</li>
+   <li>Implemented the ITIL 4 framework for service requests, incident management, asset management, and change management</li>
+   <li>Developed and configured ITSM processes to help increase efficiency by 25% on all services</li>
+   <li>Optimized and automated processes using integrations and RESTful APIs</li>
+   <li>Led implementation and administration for service management platforms such as Web Helpdesk and Team Dynamix ITSM</li>
+   <li>Invited by Team Dynamix to demo integrations to their customer base</li>
    </ul>
 
 - title: "Resarch Assistant (Data Analyst)<br> <h3>University of Oxford</h3><br>"
