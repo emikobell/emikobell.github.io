@@ -7,3 +7,8 @@
   level: Native
   percentage: 100
   color: success
+
+- name: Bouldering
+  level: Regularly Falling (V3)
+  percentage: 20
+  color: warning
