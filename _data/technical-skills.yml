@@ -1,19 +1,8 @@
-- name: SPSS
-  level: Proficient
-  percentage: 90
-  color: danger
-
+- name: Python
+- name: Javascript
+- name: React
+- name: PostGreSQL
+- name: Bootstrap
 - name: R
-  level: Proficient
-  percentage: 90
-  color: 
-
 - name: MATLAB
-  level: Competent
-  percentage: 80
-  color: secondary
-
-- name: JavaScript & PsychoPy
-  level: Learning
-  percentage: 30
-  color: info
+- name: SPSS

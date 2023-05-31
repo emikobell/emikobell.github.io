@@ -7,7 +7,7 @@ weight: 3
 
 # **Contact Me**
 <br>
-You can reach me through email and LinkedIn:
+Please feel free to connect!
 
 <br>
 
@@ -18,13 +18,18 @@ You can reach me through email and LinkedIn:
             &nbsp; emikoelizabethbell@gmail.com
         </a>
     </div>
-
     <br>
-
     <div class="row ml-2">
         <a class="link" href="https://linkedin.com/in/emikobell/" target="_blank">
             <i class="fab fa-linkedin-in" style="color: #007bb5"></i>
             &nbsp; LinkedIn Profile
+        </a>
+    </div>
+        <br>
+    <div class="row ml-2">
+        <a class="link" href="https://github.com/emikobell" target="_blank">
+            <i class="fab fa-github"></i>
+            &nbsp; Github
         </a>
     </div>
 </div>

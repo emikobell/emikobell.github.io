@@ -9,6 +9,6 @@
   color: success
 
 - name: Bouldering
-  level: Regularly Falling (V3)
+  level: V3
   percentage: 20
   color: warning
