@@ -1,6 +1,6 @@
 ---
 name: Maternal Attachment as a Moderator between Hope and Psychological Distress
-tools: [Psychology, Research, featured]
+tools: [Psychology, Research]
 image: "/assets/Picture1.png"
 description: This research project was conducted at University of California, Irvine and examined the moderating role of maternal attachment between hope and psychological distress among Latinx adolescents in Southern California.
 ---
