@@ -1,8 +1,7 @@
 - name: Python
+- name: Java
 - name: Javascript
 - name: React
+- name: Spring Boot
 - name: PostGreSQL
-- name: Bootstrap
-- name: R
-- name: MATLAB
-- name: SPSS
+- name: MongoDB

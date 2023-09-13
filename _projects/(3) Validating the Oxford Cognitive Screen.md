@@ -1,6 +1,6 @@
 ---
 name: Validating Executive Function Assessments for Adolescents in Peru
-tools: [Psychology, Research, featured]
+tools: [Psychology, Research]
 image: /assets/MHEF.png
 description: This research project was my dissertation for my MSc at the University of Oxford. I culturally validated the Oxford Cognitive Screen - Executive Function (OCS-EF) and the Rapid Assessment of Cognitive and Emotional Regulation (RACER) for use in adolescents from Peru.
 ---
