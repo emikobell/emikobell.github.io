@@ -1,3 +1,14 @@
+- title: "Developer <br> <h3>University System of New Hampshire (via Oxford Global Resoureces)</h3><br>"
+  from: 2024
+  to: Current
+  description: |
+   <ul>
+   <li>Manage, design, and execute onboarding of 4 departments into Enterprise Service Management system in a institution of 30,000</li>
+   <li>Create business and automation tools and analyze descriptive data using Python</li>
+   <li>Develop front-end of the <a href="https://td.usnh.edu/TDClient/60/Portal/Home/" target="_blank">USNH Support Website</a> using Bootstrap</li>
+   </ul>
+
+
 - title: "Software Engineering Student <br> <h3>Hackbright Academy</h3><br>"
   from: 2023
   to: 2023
@@ -19,7 +30,7 @@
    <li>Created and reviewed user-facing web portals using TerminalFour CMS</li>
    </ul>
 
-- title: "Resarch Assistant (Data Analyst)<br> <h3>University of Oxford</h3><br>"
+- title: "Research Assistant (Data Analyst)<br> <h3>University of Oxford</h3><br>"
   from: 2021
   to: 2022
   description: |
