@@ -1,10 +1,10 @@
-- title: "Developer <br> <h3>University System of New Hampshire <br/>(via Oxford Global Resources)</h3><br>"
+- title: "ESM/ITSM Developer <br> <h3>University System of New Hampshire <br/>(Contract via Oxford Global Resources)</h3><br>"
   from: 2024
-  to: Current
+  to: 2025
   description: |
    <ul>
    <li>Manage, design, and execute onboarding of 4 departments into Enterprise Service Management system in an institution of 30,000</li>
-   <li>Create business and automation tools and analyze descriptive data using Python</li>
+   <li>Create business and automation tools and analyze descriptive data using REST APIs and Python</li>
    <li>Develop front-end of the <a href="https://td.usnh.edu/TDClient/60/Portal/Home/" target="_blank">USNH Support Website</a> using Bootstrap</li>
    </ul>
 
@@ -16,6 +16,7 @@
    <ul>
    <li>Full-stack web development bootcamp, cohort sponsored by Walmart</li>
    <li>Tech stack includes Python, JavaScript, HTML, CSS, Flask, jQuery, Jinja, PostgreSQL, and Bootstrap</li>
+   <li><a href="https://github.com/emikobell/wrap-app" target="_blank">Wrap App</a> project chosen as one of 3 showcase projects for the cohort</li>
    </ul>
 
 - title: "IT Service Management Specialist<br> <h3>Biola University</h3><br>"
@@ -23,11 +24,11 @@
   to: 2023
   description: |
    <ul>
-   <li>Collaboratively designed and implemented an ITIL 4 ITSM framework for service requests, incident management, asset management, and change management in an Agile environment</li>
-   <li>Developed and configured ITSM processes to help increase efficiency by 25% on all services</li>
-   <li>Optimized and automated processes using integrations, creating and consuming RESTful APIs</li>
-   <li>Led implementation and administration for service management platforms such as Web Helpdesk and Team Dynamix ITSM</li>
-   <li>Created and reviewed user-facing web portals using TerminalFour CMS</li>
+   <li>Designed and implemented an ITIL 4 ITSM framework for service requests, incident management, asset management, and change management in an Agile environment</li>
+   <li>Developed and automated ITSM processes to increase efficiency by 25% on all services</li>
+   <li>Optimized and automated processes using iPaaS integrations, creating and consuming RESTful APIs and fully automating previously manual tasks</li>
+   <li>Led implementation and system administration for service management platforms (Solarwinds Web Help Desk, TeamDynamix ITSM, and iPaaS)</li>
+   <li>Created and reviewed user-facing web portals and knowledge base on TerminalFour CMS across all of IT</li>
    </ul>
 
 - title: "Research Assistant (Data Analyst)<br> <h3>University of Oxford</h3><br>"
@@ -35,8 +36,9 @@
   to: 2022
   description: |
     <ul>
-    <li>Analyzed and visualized cognitive assessment data using R and presented results</li>
-    <li>Conducted complex statistical data analyses using R</li>
+    <li>Conducted complex quantitative statistical analyses, assured data quality, and visualized tablet-based cognitive assessment data using R</li>
+    <li>Maintained research data according to global data quality and governance rules</li>
+    <li>Presented significant results to executives in a global research group spanning four countries</li>
     <li>Developed memory-tracking software to assess neurodegenerative diseases using JavaScript and Python</li>
     </ul>
 
@@ -60,9 +62,9 @@
   to: 2020
   description: |
     <ul>
-    <li>Provided laptop, desktop, and classroom technical support for users with the highest number of tickets resolved per week among tier 1 technicians</li>
+    <li>Supported an organization of 7,300 people with device, classroom, and operating systems technical support, consistently resolving the highest number of tickets per week among tier 1 technicians</li>
     <li>Led technical orientation for faculty, staff, and support workers</li>
-    <li>Assisted in the launch and implementation of software and IT service offerings</li>
+    <li>Launched and implemented new software and IT service offerings</li>
     </ul>
 
 - title: "Bachelor of Arts (BA) Psychology<br> <h3>Biola University</h3><br>"
@@ -86,7 +88,7 @@
   to: 2019
   description: |
     <ul>
-    <li>Ran complex data analysis using SPSS</li>
-    <li>Visualized results</li>
-    <li>resented results at research symposium</li>
+    <li>Conducted data analysis to examine maternal attachment as a moderator of the association between hope and psychological distress in low-income latinx adolescents</li>
+    <li>Created study design for cultural validation and conducted factor analyses and validation analyses using SPSS</li>
+    <li>Presented results at research symposium, and research was accepted for presentation at the Society for Research on Adolescents biennial meeting (canceled due to COVID-19)</li>
     </ul>

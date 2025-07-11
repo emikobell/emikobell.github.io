@@ -1,7 +1,7 @@
+- name: REST API
+- name: ESM/ITSM Systems (ServiceNow, TeamDynamix, Solarwinds Web Help Desk)
 - name: Python
 - name: Java
 - name: Javascript
 - name: React
-- name: Spring Boot
 - name: PostGreSQL
-- name: MongoDB
